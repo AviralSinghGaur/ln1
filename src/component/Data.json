@@ -7,8 +7,8 @@
     "CUSTOMER": "Aviral",
     "EMAIL": "Aviral@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "To Kill a Mockingbird",
+    "AUTHOR": "Harper Lee",
     "ORDERTYPE": "Customer"
   },
   {
@@ -19,8 +19,8 @@
     "CUSTOMER": "Roggmann",
     "EMAIL": "Roggmann@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Great Gatsby",
+    "AUTHOR ": "F. Scott Fitzgerald",
     "ORDERTYPE": "Customer"
   },
   {
@@ -31,8 +31,8 @@
     "CUSTOMER": "Sumit",
     "EMAIL": "Sumit@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "1984",
+    "AUTHOR": "George Orwell",
     "ORDERTYPE": "Customer"
   },
   {
@@ -43,8 +43,8 @@
     "CUSTOMER": "Aradhika",
     "EMAIL": "Aradhika@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Pride and Prejudice",
+    "AUTHOR": "Jane Austen",
     "ORDERTYPE": "Customer"
   },
   {
@@ -55,8 +55,8 @@
     "CUSTOMER": "Surbhi",
     "EMAIL": "Surbhi@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Catcher in the Rye",
+    "AUTHOR": "J.D. Salinger",
     "ORDERTYPE": "Customer"
   },
   {
@@ -67,8 +67,8 @@
     "CUSTOMER": "Ateeb",
     "EMAIL": "Ateeb @example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
-    "BOOK": "ShopifyAU",
+    "BOOK": "Educated",
+    "AUTHOR": "Tara Westover",
     "ORDERTYPE": "Customer"
   },
   {
@@ -79,8 +79,8 @@
     "CUSTOMER": "Suman",
     "EMAIL": "Suman@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Becoming",
+    "AUTHOR": "Michelle Obama",
     "ORDERTYPE": "Customer"
   },
   {
@@ -91,8 +91,8 @@
     "CUSTOMER": "Aman",
     "EMAIL": "Aman @example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Thinking, Fast and Slow",
+    "AUTHOR": "Daniel Kahneman",
     "ORDERTYPE": "Customer"
   },
   {
@@ -103,8 +103,8 @@
     "CUSTOMER": "Rohit",
     "EMAIL": "Rohit@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Dune",
+    "AUTHOR": "Frank Herbert",
     "ORDERTYPE": "Customer"
   },
   {
@@ -115,8 +115,8 @@
     "CUSTOMER": "Ayush",
     "EMAIL": "Ayush@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Hobbit",
+    "AUTHOR": " J.R.R. Tolkien",
     "ORDERTYPE": "Customer"
   },
   {
@@ -127,8 +127,8 @@
     "CUSTOMER": "Ayushi",
     "EMAIL": "Ayushi@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Neuromancer",
+    "AUTHOR": "William Gibson",
     "ORDERTYPE": "Customer"
   },
   {
@@ -139,8 +139,8 @@
     "CUSTOMER": "Dhillon",
     "EMAIL": "Dhillon@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "A Game of Thrones",
+    "AUTHOR": "George R.R. Martin",
     "ORDERTYPE": "Customer"
   },
   {
@@ -151,8 +151,8 @@
     "CUSTOMER": "Harman",
     "EMAIL": "Harman@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Left Hand of Darkness",
+    "AUTHOR": " Ursula K. Le Guin",
     "ORDERTYPE": "Customer"
   },
   {
@@ -163,8 +163,8 @@
     "CUSTOMER": "Navjot",
     "EMAIL": "Navjot@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Gone Girl",
+    "AUTHOR": "Gillian Flynn",
     "ORDERTYPE": "Customer"
   },
   {
@@ -175,8 +175,8 @@
     "CUSTOMER": "Takbeer",
     "EMAIL": "Takbeer@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Big Little Lies",
+    "AUTHOR": "Liane Moriarty",
     "ORDERTYPE": "Customer"
   },
   {
@@ -187,8 +187,8 @@
     "CUSTOMER": "Anil",
     "EMAIL": "Anil@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Da Vinci Code",
+    "AUTHOR": "Dan Brown",
     "ORDERTYPE": "Customer"
   },
   {
@@ -199,8 +199,8 @@
     "CUSTOMER": "Raman",
     "EMAIL": "Raman @example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Silent Patient",
+    "AUTHOR": "Alex Michaelides",
     "ORDERTYPE": "Customer"
   },
   {
@@ -211,8 +211,8 @@
     "CUSTOMER": "Sonam",
     "EMAIL": "Sonam @example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Hunger Games",
+    "AUTHOR": "Suzanne Collins",
     "ORDERTYPE": "Customer"
   },
   {
@@ -223,8 +223,8 @@
     "CUSTOMER": "Swati",
     "EMAIL": "Swati@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Harry Potter",
+    "AUTHOR": "J.K. Rowling",
     "ORDERTYPE": "Customer"
   },
   {
@@ -235,8 +235,8 @@
     "CUSTOMER": "Himani",
     "EMAIL": "Himani@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Divergent",
+    "AUTHOR": "Veronica Roth",
     "ORDERTYPE": "Customer"
   },
   {
@@ -247,8 +247,8 @@
     "CUSTOMER": "Amandeep",
     "EMAIL": "Amandeep@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Maze Runner",
+    "AUTHOR": "James Dashner",
     "ORDERTYPE": "Customer"
   },
   {
@@ -259,8 +259,8 @@
     "CUSTOMER": "Avinash",
     "EMAIL": "Avinash @example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Charlotte's Web",
+    "AUTHOR": "E.B. White",
     "ORDERTYPE": "Customer"
   },
   {
@@ -271,8 +271,8 @@
     "CUSTOMER": "Haripriya",
     "EMAIL": "Haripriya@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Goodnight Moon",
+    "AUTHOR": "Margaret Wise Brown",
     "ORDERTYPE": "Customer"
   },
   {
@@ -283,8 +283,8 @@
     "CUSTOMER": "Ravi",
     "EMAIL": "Ravi@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Moby-Dick",
+    "AUTHOR": "Herman Melville",
     "ORDERTYPE": "Customer"
   },
   {
@@ -295,8 +295,8 @@
     "CUSTOMER": "Kamal",
     "EMAIL": "Kamal@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "War and Peace",
+    "AUTHOR": "Leo Tolstoy",
     "ORDERTYPE": "Customer"
   },
   {
@@ -307,8 +307,8 @@
     "CUSTOMER": "Rahul",
     "EMAIL": "Rahul@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Jane Eyre",
+    "AUTHOR": "Charlotte Brontë",
     "ORDERTYPE": "Customer"
   },
   {
@@ -319,8 +319,8 @@
     "CUSTOMER": "Varshini",
     "EMAIL": "Varshini@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Odyssey",
+    "AUTHOR": "Homer",
     "ORDERTYPE": "Customer"
   },
   {
@@ -331,8 +331,8 @@
     "CUSTOMER": "Jyoti",
     "EMAIL": "Jyoti@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIA Post Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "The Road",
+    "AUTHOR": "Cormac McCarthy",
     "ORDERTYPE": "Customer"
   },
   {
@@ -343,8 +343,8 @@
     "CUSTOMER": "Neelam ",
     "EMAIL": "Neelam@example.com",
     "COUNTRY": "INDIA ",
-    "BOOK": "INDIAN Post Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "Beloved",
+    "AUTHOR": "Toni Morrison",
     "ORDERTYPE": "Customer"
   }
 ]
