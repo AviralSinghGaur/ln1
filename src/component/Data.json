@@ -7,7 +7,7 @@
     "CUSTOMER": "Aviral",
     "EMAIL": "Aviral@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -19,7 +19,7 @@
     "CUSTOMER": "Roggmann",
     "EMAIL": "Roggmann@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -31,7 +31,7 @@
     "CUSTOMER": "Sumit",
     "EMAIL": "Sumit@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -43,7 +43,7 @@
     "CUSTOMER": "Aradhika",
     "EMAIL": "Aradhika@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -55,7 +55,7 @@
     "CUSTOMER": "Surbhi",
     "EMAIL": "Surbhi@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -68,7 +68,7 @@
     "EMAIL": "Ateeb @example.com",
     "COUNTRY": "INDIA ",
     "SHIPPING": "INDIAN POST Api",
-    "SOURCE": "ShopifyAU",
+    "BOOK": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
   {
@@ -79,7 +79,7 @@
     "CUSTOMER": "Suman",
     "EMAIL": "Suman@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -91,7 +91,7 @@
     "CUSTOMER": "Aman",
     "EMAIL": "Aman @example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -103,7 +103,7 @@
     "CUSTOMER": "Rohit",
     "EMAIL": "Rohit@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -115,7 +115,7 @@
     "CUSTOMER": "Ayush",
     "EMAIL": "Ayush@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -127,7 +127,7 @@
     "CUSTOMER": "Ayushi",
     "EMAIL": "Ayushi@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -139,7 +139,7 @@
     "CUSTOMER": "Dhillon",
     "EMAIL": "Dhillon@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -151,7 +151,7 @@
     "CUSTOMER": "Harman",
     "EMAIL": "Harman@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -163,7 +163,7 @@
     "CUSTOMER": "Navjot",
     "EMAIL": "Navjot@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -175,7 +175,7 @@
     "CUSTOMER": "Takbeer",
     "EMAIL": "Takbeer@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -187,7 +187,7 @@
     "CUSTOMER": "Anil",
     "EMAIL": "Anil@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -199,7 +199,7 @@
     "CUSTOMER": "Raman",
     "EMAIL": "Raman @example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -211,7 +211,7 @@
     "CUSTOMER": "Sonam",
     "EMAIL": "Sonam @example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -223,7 +223,7 @@
     "CUSTOMER": "Swati",
     "EMAIL": "Swati@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -235,7 +235,7 @@
     "CUSTOMER": "Himani",
     "EMAIL": "Himani@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -247,7 +247,7 @@
     "CUSTOMER": "Amandeep",
     "EMAIL": "Amandeep@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -259,7 +259,7 @@
     "CUSTOMER": "Avinash",
     "EMAIL": "Avinash @example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -271,7 +271,7 @@
     "CUSTOMER": "Haripriya",
     "EMAIL": "Haripriya@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -283,7 +283,7 @@
     "CUSTOMER": "Ravi",
     "EMAIL": "Ravi@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -295,7 +295,7 @@
     "CUSTOMER": "Kamal",
     "EMAIL": "Kamal@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -307,7 +307,7 @@
     "CUSTOMER": "Rahul",
     "EMAIL": "Rahul@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -319,7 +319,7 @@
     "CUSTOMER": "Varshini",
     "EMAIL": "Varshini@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN POST Api",
+    "BOOK": "INDIAN POST Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -331,7 +331,7 @@
     "CUSTOMER": "Jyoti",
     "EMAIL": "Jyoti@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIA Post Api",
+    "BOOK": "INDIA Post Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   },
@@ -343,7 +343,7 @@
     "CUSTOMER": "Neelam ",
     "EMAIL": "Neelam@example.com",
     "COUNTRY": "INDIA ",
-    "SHIPPING": "INDIAN Post Api",
+    "BOOK": "INDIAN Post Api",
     "SOURCE": "ShopifyAU",
     "ORDERTYPE": "Customer"
   }
