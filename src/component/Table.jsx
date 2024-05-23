@@ -103,16 +103,16 @@ const headCells = [
     label: "COUNTRY",
   },
   {
-    id: "SHIPPING",
+    id: "BOOK",
     numeric: true,
     disablePadding: false,
-    label: "SHIPPING",
+    label: "BOOK",
   },
   {
-    id: "SOURCE",
+    id: "AUTHOR",
     numeric: true,
     disablePadding: false,
-    label: "SOURCE",
+    label: "AUTHOR",
   },
   {
     id: "ORDERTYPE",
@@ -560,8 +560,8 @@ export default function EnhancedTable({ rowss }) {
                       <TableCell align="right">{row.CUSTOMER}</TableCell>
                       <TableCell align="right">{row.EMAIL}</TableCell>
                       <TableCell align="right">{row.COUNTRY}</TableCell>
-                      <TableCell align="right">{row.SHIPPING}</TableCell>
-                      <TableCell align="right">{row.SOURCE}</TableCell>
+                      <TableCell align="right">{row.BOOK}</TableCell>
+                      <TableCell align="right">{row.AUTHOR}</TableCell>
                       <TableCell align="right">{row.ORDERTYPE}</TableCell>
                       <TableCell align="right">
                         {editingId === row.ID ? (
