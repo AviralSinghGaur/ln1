@@ -12,8 +12,8 @@ function CreateNewForm({ addRow }) {
     CUSTOMER: "",
     EMAIL: "",
     COUNTRY: "",
-    SHIPPING: "",
-    SOURCE: "",
+    BOOK: "",
+    AUTHOR: "",
     ORDERTYPE: "",
   });
   const handleChange = (event) => {
@@ -34,8 +34,8 @@ function CreateNewForm({ addRow }) {
       CUSTOMER: "",
       EMAIL: "",
       COUNTRY: "",
-      SHIPPING: "",
-      SOURCE: "",
+      BOOK: "",
+      AUTHOR: "",
       ORDERTYPE: "",
     });
   };
@@ -117,18 +117,18 @@ function CreateNewForm({ addRow }) {
             <Grid item xs={12}>
               <TextField
                 fullWidth
-                label="Shipping"
-                name="SHIPPING"
-                value={formData.SHIPPING}
+                label="book"
+                name="BOOK"
+                value={formData.BOOK}
                 onChange={handleChange}
               />
             </Grid>
             <Grid item xs={12}>
               <TextField
                 fullWidth
-                label="Source"
-                name="SOURCE"
-                value={formData.SOURCE}
+                label="author"
+                name="AUTHOR"
+                value={formData.AUTHOR}
                 onChange={handleChange}
               />
             </Grid>
